@@ -2,19 +2,19 @@
 
 This project presents an interactive Employee Performance Dashboard built using Power BI. It helps analyze key HR metrics such as employee distribution, attrition rate, salary trends, and education background to support data-driven decision-making.
 
---
+---
 
 🎯 Objectives
 
-Analyze employee performance and salary hike trends
+🔹Analyze employee performance and salary hike trends
 
-Monitor attrition rate and workforce stability
+🔹Monitor attrition rate and workforce stability
 
-Understand department and designation distribution
+🔹Understand department and designation distribution
 
-Provide actionable insights for HR teams
+🔹Provide actionable insights for HR teams
 
---
+---
 
 🛠️ Tools & Technologies
 
@@ -26,19 +26,19 @@ Microsoft Excel – Data Cleaning & Preparation
 
 The dataset includes employee-related information such as:
 
-Employee count
+🔹Employee count
 
-Department & designation
+🔹Department & designation
 
-Salary hike
+🔹Salary hike
 
-Attrition status
+🔹Attrition status
 
-Education background
+🔹Education background
 
-Gender
+🔹Gender
 
---
+---
 
 🔑 Key Features
 
@@ -58,26 +58,26 @@ Gender
 
 📊 Key Insights
 
-Sales and Development departments have the highest employee count
+🔹Sales and Development departments have the highest employee count
 
-Managers and Technical Leads are the most common roles
+🔹Managers and Technical Leads are the most common roles
 
-Attrition rate is around 15%, indicating stable retention
+🔹Attrition rate is around 15%, indicating stable retention
 
-Majority employees belong to Life Sciences and Medical fields
+🔹Majority employees belong to Life Sciences and Medical fields
 
-Salary hike trend shows a gradual decline over time
+🔹Salary hike trend shows a gradual decline over time
 
---
+---
 
 ✅ Results
 
 This dashboard enables HR professionals to:
 
-Identify workforce trends quickly
+🔹Identify workforce trends quickly
 
-Improve employee retention strategies
+🔹Improve employee retention strategies
 
-Make informed decisions based on performance data
+🔹Make informed decisions based on performance data
 
---
+---
